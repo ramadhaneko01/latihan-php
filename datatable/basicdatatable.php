@@ -5,12 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Datatables</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="../vendor/datatables/datatables/media/css/jquery.dataTables.css">
+    <link rel="stylesheet" type="text/css" href="../vendor/datatables/datatables/media/css/jquery.dataTables.cssd">
     <script type="text/javascript" language="javascript" src="../vendor/datatables/datatables/media/js/jquery.js"></script>
     <script type="text/javascript" language="javascript" src="../vendor/datatables/datatables/media/js/jquery.dataTables.js"></script>
     <script>
         $(document).ready(function() {
-             $('#example').dataTable();
+             $('#example').dataTable(); 
         })
     </script>
 </head>
